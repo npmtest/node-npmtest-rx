@@ -1,7 +1,7 @@
 # test coverage for  [rx (v4.1.0)](https://github.com/Reactive-Extensions/RxJS)  [![npm package](https://img.shields.io/npm/v/npmtest-rx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rx.svg)](https://travis-ci.org/npmtest/node-npmtest-rx)
 #### Library for composing asynchronous and event-based operations in JavaScript
 
-[![NPM](https://nodei.co/npm/rx.png?downloads=true)](https://www.npmjs.com/package/rx)
+[![NPM](https://nodei.co/npm/rx.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rx)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-rx/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-rx/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-rx/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-rx/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-rx/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rx/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-rx/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-rx/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-rx/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-rx/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-rx%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rx/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-rx/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-rx/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-rx/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-rx%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rx/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-rx/build/test-report.html](https://npmtest.github.io/node-npmtest-rx/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-rx/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-rx/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-rx/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-rx/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-rx/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rx/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-rx/build/screenCapture.npmPackageListing.svg)
 
@@ -75,17 +81,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "vvilhonen",
-            "email": "vesa@vilhonen.com"
+            "name": "vvilhonen"
         },
         {
-            "name": "mattpodwysocki",
-            "email": "matthew.podwysocki@gmail.com"
+            "name": "mattpodwysocki"
         }
     ],
     "name": "rx",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Reactive-Extensions/RxJS.git"
