@@ -1,4 +1,7 @@
-# test coverage for  [rx (v4.1.0)](https://github.com/Reactive-Extensions/RxJS)  [![npm package](https://img.shields.io/npm/v/npmtest-rx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rx.svg)](https://travis-ci.org/npmtest/node-npmtest-rx)
+# npmtest-rx
+
+#### basic test coverage for  [rx (v4.1.0)](https://github.com/Reactive-Extensions/RxJS)  [![npm package](https://img.shields.io/npm/v/npmtest-rx.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rx) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rx.svg)](https://travis-ci.org/npmtest/node-npmtest-rx)
+
 #### Library for composing asynchronous and event-based operations in JavaScript
 
 [![NPM](https://nodei.co/npm/rx.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rx)
